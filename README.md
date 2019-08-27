@@ -1,2 +1,2 @@
 # FFmpegPluginDependencies
-Holder for The FFmpeg plugin: includes, libs, dll, dylib
+Holder for The FFmpeg plugin dependencies: includes, libs, dll, dylib
